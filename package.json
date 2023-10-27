@@ -10,10 +10,23 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@mui/icons-material": "^5.14.15",
+    "@mui/material": "^5.14.15",
+    "@mui/x-charts": "^6.0.0-alpha.16",
+    "@visx/visx": "^3.4.1",
     "apexcharts": "^3.44.0",
+    "bizcharts": "^4.1.23",
+    "chart.js": "^4.4.0",
     "highcharts": "^11.1.0",
+    "highcharts-react-official": "^3.2.1",
+    "nivo": "^0.31.0",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-apexcharts": "^1.4.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.2.0",
+    "react-google-charts": "^4.0.1",
+    "recharts": "^2.9.0",
+    "victory": "^36.6.11"
   },
   "devDependencies": {
     "@types/react": "^18.2.15",
